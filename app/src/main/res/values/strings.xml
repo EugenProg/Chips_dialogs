@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chips and dialogs</string>
+    <string name="eurasia">Евразия</string>
+    <string name="africa">Африка</string>
+    <string name="south_america">Южная америка</string>
+    <string name="north_america">Северная америка</string>
+    <string name="australia">Австралия</string>
+    <string name="antarctica">Антарктида</string>
+    <string name="continent_list">Continent list</string>
+</resources>
